@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/84189736?s=400&u=9e895bf3046a43d4952ccd151745106a0aa0f2e0&v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/lucasvchaves22) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/84189736?s=400&u=9e895bf3046a43d4952ccd151745106a0aa0f2e0&v=4" width=115><br><sub>Lucas Vasconcelos</sub>](https://github.com/lucasvchaves22) |
 | :---: | :---: |
